@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval"
+    android:useLevel="false" >
+    <solid
+        android:color="@color/white"/>
+    <size
+        android:width="@dimen/services_cart_circle_size"
+        android:height="@dimen/services_cart_circle_size"/>
+    <stroke
+        android:color="@color/colorPrimary"
+        android:width="5dp"/>
+</shape>

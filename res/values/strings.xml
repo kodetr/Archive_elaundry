@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">URBAN LAUNDRY</string>
+    <string name="menu_name">Laundry Kiloan</string>
+    <string name="service_name">Cucian Kering</string>
+    <string name="shopcart">Cart</string>
+    <string name="clear">clear</string>
+    <string name="log_in">Log In</string>
+    <string name="login_desc">Enter your result Login details to access your account</string>
+    <string name="new_account">New Account</string>
+    <string name="signup_desc">Start by entering your name and categorie below</string>
+    <string name="reset_pass_message">Click below to reset your password</string>
+
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="service_not_available">Sorry, the service is not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude or longitude used</string>
+    <string name="no_address_found">Sorry, no address found</string>
+
+    <string name="location_permission_denied">This Application requires location permission to be enabled.</string>
+    <string name="permission_required_toast">Location permission is required for this Application.</string>
+    <string name="permission_rationale_location">Access to the location service is required to get your location details.</string>
+</resources>
